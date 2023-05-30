@@ -24,5 +24,5 @@ A passionate data scientist on a relentless quest to unravel hidden insights wit
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danushaaditya&show_icons=true&locale=en&layout=compact" alt="danushaaditya" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danushaaditya&show_icons=true&locale=en" alt="danushaaditya" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danushaaditya&show_icons=true&locale=en" alt="danushaaditya" /></p>
 
