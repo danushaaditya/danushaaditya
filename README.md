@@ -6,7 +6,7 @@ A passionate data scientist on a relentless quest to unravel hidden insights wit
 
 - 📫 How to reach me **danushaadw@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1F2kV9IQgz7ynveh-J9ezBYxiy288KcuL/view?usp=sharing)
+- 📄 Know about my experiences @ [Resume](https://drive.google.com/file/d/1F2kV9IQgz7ynveh-J9ezBYxiy288KcuL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
