@@ -2,8 +2,6 @@
 
 A passionate data scientist on a relentless quest to unravel hidden insights within complex datasets. With a strong background in mathematics, statistics, and computer science, I am driven by a genuine fascination for the power of data and its potential to drive impactful decision-making.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danushaaditya&label=Profile%20views&color=0e75b6&style=flat" alt="danushaaditya" /> </p>
-
 - 🔭 Graduated from **National University of Singapore**
 
 - 📫 How to reach me **danushaadw@gmail.com**
