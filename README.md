@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Danush Aaditya</h1>
-<h3 align="center">A passionate data scientist on a relentless quest to unravel hidden insights within complex datasets. With a strong background in mathematics, statistics, and computer science, I am driven by a genuine fascination for the power of data and its potential to drive impactful decision-making.</h3>
+### Hi there I am <a href="https://github.com/danushaaditya" target="_blank">Danush Aaditya</a>  👋
+
+A passionate data scientist on a relentless quest to unravel hidden insights within complex datasets. With a strong background in mathematics, statistics, and computer science, I am driven by a genuine fascination for the power of data and its potential to drive impactful decision-making.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danushaaditya&label=Profile%20views&color=0e75b6&style=flat" alt="danushaaditya" /> </p>
 
