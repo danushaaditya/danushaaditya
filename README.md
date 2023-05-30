@@ -4,7 +4,7 @@ A passionate data scientist on a relentless quest to unravel hidden insights wit
 
 - 🎓 Graduated from **National University of Singapore**
 
--  👩🏻‍💻 Currently working as a full time Data Scientist for Singapore Data Science Consortium
+-  👩🏻‍💻 Currently working as a full time **Data Scientist** for Singapore Data Science Consortium
 
 - 📫 How to reach me **danushaadw@gmail.com**
 
