@@ -6,7 +6,7 @@ A passionate data scientist on a relentless quest to unravel hidden insights wit
 
 -  👩🏻‍💻 Currently working as a full time **Data Scientist** for Singapore Data Science Consortium
 
-- 📫 How to reach me **danushaadw@gmail.com**
+- 📫 Reach me at **danushaadw@gmail.com**
 
 - 📄 Know about my experiences @ [Resume](https://drive.google.com/file/d/1F2kV9IQgz7ynveh-J9ezBYxiy288KcuL/view?usp=sharing)
 
